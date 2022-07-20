@@ -1,0 +1,15 @@
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+D:\Private\Geekbrains\Csharp\Homework8\Task58\bin\Debug\net6.0\Task58.exe
+D:\Private\Geekbrains\Csharp\Homework8\Task58\bin\Debug\net6.0\Task58.deps.json
+D:\Private\Geekbrains\Csharp\Homework8\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+D:\Private\Geekbrains\Csharp\Homework8\Task58\bin\Debug\net6.0\Task58.dll
+D:\Private\Geekbrains\Csharp\Homework8\Task58\bin\Debug\net6.0\Task58.pdb
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.dll
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\refint\Task58.dll
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.pdb
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+D:\Private\Geekbrains\Csharp\Homework8\Task58\obj\Debug\net6.0\ref\Task58.dll
